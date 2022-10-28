@@ -1,0 +1,40 @@
+print(-3 ** 2)
+print(-2 ** 3)
+print(-(3 ** 2)
+
+
+pound = 85
+usd = 30
+pound_to_usd = 85 * 1.16
+usd_to_pound = 30 / 1.16
+print(pound, "pound is", round(pound_to_usd, 2), "usd")
+print(usd, "usd is", round(usd_to_pound, 2), "pound")
+
+
+c= 14
+f= 50
+c_to_f = (14*9/5)+32
+f_to_c = 50/((33.8-32)*9/5)
+print(c, "Celcius is", round(c_to_f, 1), "Fahrenhiet")
+print(f, "Fahrenhiet is", round(f_to_c, 1), "Celcius")  #Not working for me this formula
+
+
+x= 0
+x= float(x)
+y= 3*x**2 + 2*x**2 +3*x -1
+print("y=", y)
+
+x= 1
+x= float(x)
+y= 3*x**2 + 2*x**2 +3*x -1
+print("y=", y)
+
+x= 2
+x= float(x)
+y= 3*x**2 + 2*x**2 +3*x -1
+print("y=", y)
+
+x= -1
+x= float(x)
+y= 3*x**2 + 2*x**2 +3*x -1
+print("y=", y)
